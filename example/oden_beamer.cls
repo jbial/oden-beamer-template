@@ -1,1 +1,0 @@
-../template/oden_beamer.cls
